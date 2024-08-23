@@ -4,7 +4,7 @@ This project is hands-on work on what we learned in the Web GIS course during ou
 
 ## Team Members:
 * [Harsh Chothani](https://github.com/Harsh-Chothani)
-* [Kaushal Kathiriya](https://github.com/Kaushal0609)
+* [Smit Bhuva](https://github.com/Smit_Bhuva)
 * [Mit Borda](https://github.com/mit2880)
 * [Anusha Parida](https://github.com/Anusha26399)
 
@@ -30,4 +30,4 @@ This project is hands-on work on what we learned in the Web GIS course during ou
 * Publish all datasets in Geoserver
 * Use the code given here to create an OpenLayers web page.
 
-### Detailed workflow is given in the [Report PDF](https://github.com/SmitBhuva-99/Web_GIS_basics_project/blob/main/Group_E_Report.pdf) given here.
+### Detailed workflow is given in the [Report PDF](https://github.com/Kaushal0609/Web_GIS_Project/blob/main/Group_E_Report.pdf) given here.
